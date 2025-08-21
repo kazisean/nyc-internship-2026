@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL of the target website
-pitt="https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md"
+#pitt="https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md"
 vansh="https://raw.githubusercontent.com/vanshb03/Summer2026-Internships/refs/heads/dev/README.md"
 speedySWE="https://raw.githubusercontent.com/speedyapply/2026-SWE-College-Jobs/refs/heads/main/README.md"
 speedyAI="https://raw.githubusercontent.com/speedyapply/2026-AI-College-Jobs/refs/heads/main/README.md"
